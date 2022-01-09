@@ -1,0 +1,30 @@
+{
+  "name": "movit-angularjs",
+  "description": "Movit in angularJS",
+  "main": "index.js",
+  "authors": [
+    "DaniloRomano <daniloapromano@live.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/DaniloRomano/movit-angularjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.8.2",
+    "angular-route": "^1.8.2",
+    "angular-resource": "^1.8.2",
+    "jquery": "^3.6.0",
+    "requirejs": "^2.3.6",
+    "lodash": "^4.17.21",
+    "text": "requirejs/text#^2.0.16",
+    "angular-ui-router": "^1.0.29"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.8.2"
+  }
+}
